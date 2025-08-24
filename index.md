@@ -1,5 +1,7 @@
-layout: home
+title: Siddha App
+
 ---
+layout: home
 title: Siddha App
 ---
 
