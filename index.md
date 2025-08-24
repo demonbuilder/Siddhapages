@@ -1,3 +1,4 @@
+
 ---
 layout: home
 title: Siddha App
@@ -5,16 +6,10 @@ title: Siddha App
 
 # Siddha App
 A wellness and tracking app
-## About
-Siddha is a wellness app focused on tracking hormonal and mental health. Learn more about the app and its features here.
 
-## Contact
-<form action="https://formspree.io/f/your-form-id" method="POST">
-  <label for="name">Name:</label>
-  <input type="text" id="name" name="name" required>
 ## About
 Siddha is a modern wellness app designed to help users track, understand, and improve their hormonal, mental, and sexual health. By combining science-backed tracking tools with a beautiful, intuitive interface, Siddha empowers you to take control of your well-being every day.
-  <label for="message">Message:</label>
+
 ## Key Features
 - **Hormonal Health Tracking:** Log daily hormone-related symptoms, moods, and activities. Visualize hormone cycles and patterns to better understand your body.
 - **Mood Logging:** Record your emotional state, stress levels, and triggers. Siddha helps you spot trends and correlations between mood, hormones, and lifestyle.
@@ -26,14 +21,14 @@ Siddha is a modern wellness app designed to help users track, understand, and im
 - **Privacy & Security:** All data is stored securely and privately. Your information is never shared without your consent.
 - **Educational Articles:** Access curated articles and resources about hormonal health, mental wellness, and sexual well-being.
 - **Customizable Themes:** Personalize the app’s look and feel to match your style and mood.
-  <textarea id="message" name="message" required></textarea>
+
 ## How Siddha Helps You
 - **Self-Awareness:** By tracking your daily experiences, Siddha helps you become more aware of your body’s rhythms and emotional patterns.
 - **Better Communication:** Use your logs to communicate more effectively with healthcare providers, therapists, or partners.
 - **Informed Decisions:** Spot trends and triggers to make informed choices about lifestyle, diet, and self-care.
 - **Support & Motivation:** Siddha’s reminders and positive feedback encourage you to stay engaged with your wellness journey.
 - **Holistic Approach:** Integrates hormonal, mental, and sexual health for a complete picture of your well-being.
-  <button type="submit">Send</button>
+
 ## Who is Siddha For?
 Siddha is for anyone seeking to:
 - Understand their hormonal cycles and mental health.
@@ -41,12 +36,23 @@ Siddha is for anyone seeking to:
 - Improve self-awareness and emotional intelligence.
 - Get actionable insights for healthier living.
 - Maintain privacy while managing sensitive health data.
-</form>
+
 ## Getting Started
 1. **Download Siddha:** Available for iOS (Android coming soon).
 2. **Create Your Profile:** Set up your personal health profile and preferences.
 3. **Start Logging:** Use the intuitive interface to log moods, activities, and symptoms daily.
 4. **Review Insights:** Explore your calendar and graphs to discover patterns and trends.
 5. **Read & Learn:** Access articles and resources to deepen your understanding of wellness.
+
+## Contact
+<form action="https://formspree.io/f/your-form-id" method="POST">
+  <label for="name">Name:</label>
+  <input type="text" id="name" name="name" required>
+  <label for="email">Email:</label>
+  <input type="email" id="email" name="email" required>
+  <label for="message">Message:</label>
+  <textarea id="message" name="message" required></textarea>
+  <button type="submit">Send</button>
+</form>
 
 Or email: [your@email.com](mailto:your@email.com)
