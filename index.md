@@ -4,8 +4,7 @@ layout: home
 title: Siddha App
 ---
 
-# Siddha App
-A wellness and tracking app
+<!-- Removed top heading for cleaner layout -->
 
 ## About
 Siddha is a modern wellness app designed to help users track, understand, and improve their hormonal, mental, and sexual health. By combining science-backed tracking tools with a beautiful, intuitive interface, Siddha empowers you to take control of your well-being every day.
