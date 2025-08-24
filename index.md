@@ -1,10 +1,3 @@
-layout: home
-title: Siddha App
-
----
-layout: home
-title: Siddha App
----
 
 <!-- Removed top heading for cleaner layout -->
 
