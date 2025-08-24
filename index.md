@@ -37,6 +37,3 @@ Siddha is for anyone seeking to:
 3. **Start Logging:** Use the intuitive interface to log moods, activities, and symptoms daily.
 4. **Review Insights:** Explore your calendar and graphs to discover patterns and trends.
 5. **Read & Learn:** Access articles and resources to deepen your understanding of wellness.
-
-## Contact
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeD4xc_Kctx7RxS1FdXEKT2NV_ieAOOCOLWwEWQ4LMnFVk8aA/viewform?embedded=true" width="640" height="741" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
